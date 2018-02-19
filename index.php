@@ -34,7 +34,7 @@
 			<section id="banner" class="bg-img" data-bg="banner.jpg">
 				<div class="inner">
 					<header>
-						<h1>EDUCENTIA</h1>
+						<h1 align="center">EDUCENTIA</h1>
 					</header>
 				</div>
 				<a href="#one" class="more">Learn More</a>
@@ -176,9 +176,10 @@
 					</form>
 
 					<ul class="icons">
-						<li><a href="#" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+					    <p> or contact me through social media </p>
+						<li><a href="https://twitter.com/SkShaifat" target="_blank" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://facebook.com/kingshaifat" target="_blank" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/king_shaifat/" target="_blank" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 
 					<div class="copyright">
