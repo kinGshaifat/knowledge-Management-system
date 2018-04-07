@@ -41,9 +41,9 @@
                         <p>Educentia</p>
                         <p>Address:<br> Park view Apartment<br>25/1 Dr. Rajendra Rd Kolkata 700024<br>Ph no.8420206505<br></p>
                         <ul class="icons">
-						<li><a href="#" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://twitter.com/SkShaifat" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://facebook.com/kingshaifat" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/king_shaifat/" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 						</div>
 						<footer>
@@ -79,9 +79,9 @@
 					</form>
 
 					<ul class="icons">
-						<li><a href="#" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://twitter.com/SkShaifat" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://facebook.com/kingshaifat" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/king_shaifat/" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 
 					<div class="copyright">
