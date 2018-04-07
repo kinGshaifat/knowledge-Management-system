@@ -1,0 +1,62 @@
+How TO Run  facebook 
+
+
+REQUIREMENT:
+
+system resolution 1366x768 must be set.
+Mozila Firefox or google chrome.
+WampServer bit
+
+
+step 1: Extract file 
+step 2: copy thefolder
+step 3: paste in wamp/www
+step 4: open browser  and tye "http://localhost"
+
+now connect Database
+
+step 5: open browser and tye "http://localhost/phpmyadmin/"
+step6: click on database tab and create 'KMS' database
+step 7: click on import tab
+step 8: click on browse file and select "user.sql" file this file is on "DB" folder
+step 9: click on 'go' button 
+step 10: click on browse file and select "file upload.sql" file this file is on "DB" folder
+step 11: click on 'go' button
+step 12: click on browse file and select "feedback.sql" file this file is on "DB" folder
+step 13: click on 'go' button
+step 14: click on browse file and select "admin.sql" file this file is on "DB" folder
+step 15: click on 'go' button
+
+
+now your project ready:
+
+create new account and login and enjoy....!!!  KMS(Knowledge Management System)
+
+
+if any problem and any query then contact me....
+
+my website    ********************
+
+_______________________________________
+Follow Us Socially ??
+
+Facebook : https://facebook.com/kingshaifat
+
+ Instagram : https://instagram.com/king_shaifat
+
+ Twitter : https://twitter.com/SkShaifat
+............................
+
+
+
+............................
+THANK YOU......
+............................
+
+See you in next video, have a nice day.
+GOOD LUCK
+Enjoy...!!
+
+
+
+ 
